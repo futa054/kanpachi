@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590561129808",
+    "firebase_url": "https://kanpachi.firebaseio.com",
+    "project_id": "kanpachi",
+    "storage_bucket": "kanpachi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590561129808:android:56dd554d2ececdf2",
+        "android_client_info": {
+          "package_name": "com.kanpachi.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590561129808-ltvrd27u1qra98cauka8k0j8rerjn9mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWWJhzn3ZXP8wXCMLah_xz011QE5p1B0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590561129808-ltvrd27u1qra98cauka8k0j8rerjn9mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
